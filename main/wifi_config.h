@@ -1,0 +1,9 @@
+#ifndef WIFI_CONFIG_H
+#define WIFI_CONFIG_H
+
+#define WIFI_SSID "YOUR_WIFI_SSID"             
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"            
+
+#define WIFI_CONNECT_TIMEOUT_MS 10000
+
+#endif
